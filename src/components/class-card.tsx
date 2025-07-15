@@ -1,5 +1,5 @@
 import { ArrowDown, Heart } from "lucide-react";
-import Badge from "./Badge";
+import Badge from "./badge";
 
 function ClassCard({
   title,

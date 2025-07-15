@@ -11,12 +11,17 @@
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.2.3",
+    "@supabase/supabase-js": "^2.51.0",
+    "@tailwindcss/typography": "^0.5.16",
     "@tailwindcss/vite": "^4.1.11",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.525.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-markdown": "^10.1.0",
+    "react-router-dom": "^7.6.3",
+    "styled-components": "^6.1.19",
     "tailwind-merge": "^3.3.1"
   },
   "devDependencies": {
@@ -24,6 +29,7 @@
     "@tailwindcss/postcss": "^4.1.11",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
+    "@types/styled-components": "^5.1.34",
     "@vitejs/plugin-react": "^4.6.0",
     "autoprefixer": "^10.4.21",
     "eslint": "^9.30.1",

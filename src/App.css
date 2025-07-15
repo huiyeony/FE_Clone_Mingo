@@ -1,5 +1,16 @@
 div,
-span,
-p {
+span {
   color: #fafafa;
+}
+input {
+  outline: none;
+  border-radius: 10px;
+  /* font-size sm을 유지하기 위한 코드 */
+  font-size: small;
+}
+
+input:focus {
+  outline: 1px solid gray;
+  border-radius: 10px;
+  font-size: small;
 }
